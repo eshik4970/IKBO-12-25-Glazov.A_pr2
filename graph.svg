@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="905" height="180" viewBox="0 0 905 180">
+<rect width="100%" height="100%" fill="white"/>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L7,3 z" fill="#475569"/></marker></defs>
+<path d="M265 57 L340 57" stroke="#475569" fill="none" marker-end="url(#arrow)"/>
+<path d="M265 57 L340 123" stroke="#475569" fill="none" marker-end="url(#arrow)"/>
+<path d="M565 57 L640 57" stroke="#475569" fill="none" marker-end="url(#arrow)"/>
+<path d="M565 123 L640 57" stroke="#475569" fill="none" marker-end="url(#arrow)"/>
+<rect x="40" y="40" width="225" height="34" rx="5" fill="#dbeafe" stroke="#2563eb"/>
+<text x="49" y="62" font-size="13" font-family="sans-serif">A@test</text>
+<rect x="340" y="40" width="225" height="34" rx="5" fill="#dbeafe" stroke="#2563eb"/>
+<text x="349" y="62" font-size="13" font-family="sans-serif">B@test</text>
+<rect x="340" y="106" width="225" height="34" rx="5" fill="#dbeafe" stroke="#2563eb"/>
+<text x="349" y="128" font-size="13" font-family="sans-serif">C@test</text>
+<rect x="640" y="40" width="225" height="34" rx="5" fill="#dbeafe" stroke="#2563eb"/>
+<text x="649" y="62" font-size="13" font-family="sans-serif">D@test</text>
+</svg>
